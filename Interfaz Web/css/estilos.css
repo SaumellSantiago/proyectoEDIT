@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Coiny&family=Roboto:wght@400;700&display=swap');
+body{background-color: #FFFFE0;}
+nav div{display: flex; justify-content: space-between;align-items: center;}
+nav div h1{padding-left: 20px; color: #333333;}
+ul li{list-style: none;}
+ul li a{padding-right: 40px;text-decoration: none;color: #333333;}
+header{background-color: #98FB98;}
+header h1{font-family: 'Coiny', cursive; font-weight: 400;}
+#bloque1 {display: flex; justify-content: space-around;align-items: center;}
+#bloque1 #bloque1_bis{padding-right: 350px;padding-left: 50px;}
+#bloque1 #bloque1_bis h2{font-size: 15pt; background-color: #999999;}
+#bloque1 img{width: 500px;;height: auto;}
+h1{font-family: 'Roboto'; font-weight: 700;}
+h1 em{font-family: 'Coiny';font-style: normal ; font-weight: 400; font-size: 75px;}
+#bloque2 {display: flex;justify-content: space-between; align-items: center;text-align: justify;align-items: center;}
+#bloque2_a, #bloque2_b {padding: 60px;}
+#bloque2_a h2, #bloque2_b h2{background-color: #999999;}
+#linea{border-bottom: #333333 solid 1px;margin-bottom: 40px;}
+#bloque3{display: flex; justify-content: space-between;align-items: center;margin-bottom: 20px;}
+#bloque3 img{width: 500px;height: auto;}
+#bloque3_servicios {font-size: 2em;list-style-position: inside;padding-left: 20px;}
+#siete{background-color: #999999;}
+#formulario{text-align: justify; font-family: 'Roboto'; font-weight: 400; font-size: 15px;}
+label{text-decoration: #333333; margin-bottom: 5px;}
+button, input{border-radius: 1px; border-color: #98FB98; margin-right: 10px;width: 250px;height: 25px;}
+button:hover {background-color: #45a049;}
+footer{background-color: #98FB98;margin-top: 15px;}
+#logos {display: flex;justify-content: center;align-items: center;justify-content: space-around;}
+#logos img{width: 100px;}
